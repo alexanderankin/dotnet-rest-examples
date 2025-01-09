@@ -20,7 +20,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\RestClient\RestClient.csproj" />
+        <ProjectReference Include="..\RestClient\RestClient.csproj"/>
     </ItemGroup>
 
 </Project>
